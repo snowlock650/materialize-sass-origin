@@ -11,6 +11,10 @@
     "materialize-css",
     "materialize"
   ],
+  "main": "js/bin/materialize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "author": "Seva Dolgopolov <zavalit@gmail.com>",
   "license": "MIT",
   "bugs": {
