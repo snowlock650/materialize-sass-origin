@@ -1,6 +1,6 @@
 {
   "name": "materialize-sass-origin",
-  "version": "0.97.5",
+  "version": "0.97.6",
   "description": "materializecss sass download package fork just for the sake to be able to store it automatically in node_modules folder",
   "repository": {
     "type": "git",
